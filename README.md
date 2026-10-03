@@ -184,30 +184,6 @@ When the response classes are imbalanced, accuracy alone may not describe model 
 - ANN training and loss-curve analysis
 - Interpretation of evaluation metrics and visual results
 
-## 🎓 Viva Preparation
-
-1. What is the target variable in this project?
-2. Why do we check missing values and duplicate rows?
-3. Why do categorical features need encoding?
-4. What is the purpose of a train/test split?
-5. Explain precision, recall, and F1-score.
-6. What does a confusion matrix show?
-7. How does K-Means clustering work?
-8. What is forward propagation in an ANN?
-9. What does the ANN loss curve indicate?
-10. Why should conclusions be based on the notebook's actual results?
-
-## ✅ Before Submission
-
-- [ ] Confirm the required dataset and target column from the assignment brief.
-- [ ] Update your name and student ID where required.
-- [ ] Install dependencies and run the notebook from top to bottom.
-- [ ] Check that all seven image files are generated in `outputs/figures/`.
-- [ ] Review the plots and use your actual model metrics.
-- [ ] Make sure the `outputs/figures/` folder is included when pushing to GitHub.
-- [ ] Add your own evidence-based findings and conclusions.
-
----
 
 <div align="center">
 
